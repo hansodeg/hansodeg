@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hansodeg ,  or Hans 
+- 👋 Hi I'm Hans 
 - 👀 I’m interested in web development, data mining, algorithms and cryptocurrency
 - 🌱 I’m currently learning new things every day 
 - 💞️ I’m looking to collaborate on projects, hackathons & more
