@@ -1,5 +1,5 @@
 - 👋 Hi I'm Hans 
-- 👀 I’m interested in web development, fullstack-development
+- 👀 I’m interested in fullstack-development
 - 🌱 I’m currently learning new things every day 
 - 💞️ I’m looking to collaborate on projects, hackathons & more
 
